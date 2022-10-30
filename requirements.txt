@@ -1,0 +1,8 @@
+discord.py >= 1.7.3
+requests
+google-api-python-client
+praw
+bs4
+youtube-dl >= 2021.6.6
+jishaku
+PyNaCl

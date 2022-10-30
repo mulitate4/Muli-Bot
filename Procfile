@@ -1,0 +1,1 @@
+worker: python mulibot_discord.py
